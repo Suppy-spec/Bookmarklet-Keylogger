@@ -33,14 +33,5 @@ I do not condone nor suggest this for use in ways of logging peoples passwords, 
 There are no backdoors or anything, running these is safe.
 
 Seriously, don't do bad stuff with this, I don't want anyone to get in trouble.
+This was really fun to problem solve, and was challenging for me, but fun.
 Well, thats all! Enjoy the project.
-
-
-
-
-
-
-
-
-Don't you dare steal my *totally super* advanced code, for I *totally* spent hours on it.
-If you think of stealing my terrible programming, just make it yourself. It took me like 5 minutes and text editor.
